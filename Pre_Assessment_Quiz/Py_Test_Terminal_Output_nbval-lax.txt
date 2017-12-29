@@ -1,0 +1,19 @@
+Last login: Fri Dec 29 15:37:33 on ttys001
+Danes-MacBook-Pro:~ danehamlett$ py.test --nbval-lax /Users/danehamlett/Desktop/School/Machine_Learning/Machine_Learning_Pre_Assessment_Quiz.ipynb
+============================= test session starts ==============================
+platform darwin -- Python 3.6.2, pytest-3.3.1, py-1.5.2, pluggy-0.6.0
+rootdir: /Users/danehamlett, inifile:
+plugins: nbval-0.7
+collected 6 items                                                              
+
+Desktop/School/Machine_Learning/Machine_Learning_Pre_Assessment_Quiz.ipynb . [ 16%]
+.....                                                                    [100%]
+
+=============================== warnings summary ===============================
+Desktop/School/Machine_Learning/Machine_Learning_Pre_Assessment_Quiz.ipynb::Cell 0
+  /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jupyter_client/connect.py:157: RuntimeWarning: Failed to set sticky bit on '/var/folders/0g/th8tzqq50vz7_44cl92_5g8h0000gn/T': [Errno 1] Operation not permitted: '/var/folders/0g/th8tzqq50vz7_44cl92_5g8h0000gn/T'
+    RuntimeWarning,
+
+-- Docs: http://doc.pytest.org/en/latest/warnings.html
+===================== 6 passed, 1 warnings in 3.08 seconds =====================
+Danes-MacBook-Pro:~ danehamlett$ 
