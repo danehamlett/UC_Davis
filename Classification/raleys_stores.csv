@@ -1,0 +1,17 @@
+Store_Id,Store,Address,City,State,Zip,Phone,Hours,Latitude,Longitude
+1,Aisle1,3250 Arena Blvd,Sacramento,CA,95834, 916-419-8844 , Grocery Hours: Conven Store 5am - 10pm,38.641751,-121.533688
+2,Bel Air,1301 Florin Rd.,Sacramento,CA,95831, 916-421-6766 , Grocery Hours: 6 am - 11 pm,38.496602,-121.510262
+3,Bel Air,3250 Arena Blvd,Sacramento,CA,95834, 916-419-8844 , Grocery Hours: 6 am - 11 p.m,38.641751,-121.533688
+4,Bel Air,1540 W. El Camino Ave.,Sacramento,CA,95833, 916-920-2493 , Grocery Hours: 6 am - 11 pm,38.611796,-121.496539
+5,Bel Air,6231 Fruitridge Rd.,Sacramento,CA,95820, 916-739-8647 , Grocery Hours: 6 am - 11 pm,38.52558,-121.431875
+6,Bel Air,7465 Rush River Dr.,Sacramento,CA,95831, 916-399-9091 , Grocery Hours: 6 am - 11 pm,38.48652,-121.534872
+7,Bel Air,4320 Arden Way,Sacramento,CA,95864, 916-972-0555 , Grocery Hours: 6 am - 11 pm,38.594758,-121.363551
+8,Food Source,6366 Mack Road,Sacramento,CA,95823, 916-392-0693 , Grocery Hours: 6 am - Midnight,38.472717,-121.428894
+9,Food Source,3547 Bradshaw Road,Sacramento,CA,95827, 916-854-4524 , Grocery Hours: 6 am - Midnight,38.558329,-121.334115
+10,Food Source,4401 Broadway,Sacramento,CA,95817, 916-451-2446 , Grocery Hours: 6 am - 11 pm,38.547328,-121.455894
+11,Raley's,2075 Fair Oaks Blvd,Sacramento,CA,95825, 916-648-2003 , Grocery Hours: 6 am - 11 pm,38.575046,-121.416065
+12,Raley's,4650 Natomas Blvd.,Sacramento,CA,95835, 916-419-6633 , Grocery Hours: 6am to 11pm,38.657502,-121.510387
+13,Raley's,8391 Folsom Blvd.,Sacramento,CA,95826, 916-383-6622 , Grocery Hours: 6 am - 11 pm,38.548274,-121.394908
+14,Raley's,3518 Marconi Avenue,Sacramento,CA,95821, 916-972-7177 , Grocery Hours: 6 am - 11 pm,38.616588,-121.38156
+15,Raley's,4850 Freeport Blvd.,Sacramento,CA,95822, 916-452-6861 , Grocery Hours: 6 am - 11 pm,38.530865,-121.496443
+16,Raley's,1601 West Capitol Ave.,West Sacramento,CA,95691, 916-372-3000 , Grocery Hours: Mon - Fri 6 am - 11 pm / Sat & Sun 7 am - 11 pm,38.579769,-121.529166
